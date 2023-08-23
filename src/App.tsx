@@ -70,7 +70,7 @@ export function App() {
           }}
         />
 
-        <div className="RampBreak--l" />
+        <div className="RampBreak--l" />  
 
         <div className="RampGrid">
           <Transactions transactions={transactions} />
