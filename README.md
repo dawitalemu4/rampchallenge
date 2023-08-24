@@ -1,7 +1,7 @@
 # Instructions
 
 Welcome to Ramp's frontend interview challenge.
-
+ 
 In this challenge, you will need to fix certain bugs within the starter code provided to you.
 
 The bugs **do not depend on each other**, so you can solve them independently.
